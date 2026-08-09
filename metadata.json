@@ -1,0 +1,6 @@
+{
+  "name": "Spiritual Guard AI Core",
+  "description": "Personalized AI meditation guidance, spiritual insights, protection mantras, and tranquil mindfulness practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
