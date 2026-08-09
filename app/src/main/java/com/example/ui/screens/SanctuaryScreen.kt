@@ -324,13 +324,13 @@ fun SanctuaryScreen(
             )
 
             QuickMeditationCard(
-                title = "15 Min Healing",
+                title = "20 Min Deep Focus",
                 intent = "Emotional Heart Healing",
                 icon = Icons.Default.SelfImprovement,
-                duration = 15,
+                duration = 20,
                 accentColor = SoftGold,
                 onClick = {
-                    viewModel.setDuration(15)
+                    viewModel.setDuration(20)
                     viewModel.setIntent("Emotional Heart Healing")
                     viewModel.generateMeditation()
                     onNavigateToMeditation()

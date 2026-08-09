@@ -97,7 +97,7 @@ fun MeditationPlayerScreen(
         "Spiritual Grounding"
     )
 
-    val durations = listOf(3, 5, 10, 15)
+    val durations = listOf(5, 10, 20)
 
     Column(
         modifier = modifier
